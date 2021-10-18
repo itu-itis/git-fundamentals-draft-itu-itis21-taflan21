@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub  Mustafa Emre Taflan 180210108
 
 ## 🤓 Course overview and learning outcomes 
 
