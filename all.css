@@ -2,7 +2,7 @@
   h1 {
       text-align: center;
        border: thick solid red;
-       width: 50%
+       width: 50%;
       padding: 1ex;
        color: red;
        font-size: 24 pt;
@@ -30,10 +30,10 @@ li:first-child {
   margin-bottom: 1em;
   margin-top: 1em;
   padding: 1ex;
-  width: 40%
+  width: 40%;
   }
 
 p.centered {
   text-align: center;
-  width: 50%
+  width: 50%;
  }
